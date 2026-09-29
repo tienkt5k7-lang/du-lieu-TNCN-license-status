@@ -1,0 +1,18 @@
+{
+  "noi_dung": {
+    "schema_version": 1,
+    "cap_nhat_luc": "2026-09-30T02:45:32",
+    "phien_ban": 1,
+    "muc": [
+      {
+        "ma_may": "AAED-D653-21F3-4232",
+        "license_id": "d03dc7d2fbb948999cf603954d7ec4be",
+        "quyen": [
+          "su_dung_app",
+          "tong_hop_cong_ty"
+        ]
+      }
+    ]
+  },
+  "chu_ky": "wPt9CMpkbIWNVEKb1eXvkxttksqn2zO9EMyPau-vT5eOKvfNNbZHDLK_YhQf7dIGGHpqlByVRGJd2I7ClC5hAQ=="
+}

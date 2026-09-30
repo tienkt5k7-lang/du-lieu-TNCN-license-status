@@ -1,15 +1,14 @@
 {
   "noi_dung": {
     "schema_version": 1,
-    "cap_nhat_luc": "2026-09-30T02:52:14",
-    "phien_ban": 3,
+    "cap_nhat_luc": "2026-09-30T17:40:23",
+    "phien_ban": 4,
     "muc": [
       {
         "ma_may": "AAED-D653-21F3-4232",
         "license_id": "d03dc7d2fbb948999cf603954d7ec4be",
         "quyen": [
-          "su_dung_app",
-          "tong_hop_cong_ty"
+          "su_dung_app"
         ]
       },
       {
@@ -22,5 +21,5 @@
       }
     ]
   },
-  "chu_ky": "Fc2vfTseFRNwT6LeDgaLPMWR8yvZOFcmnRU2qWeE0Wy3Oe4hUSL7Sv_Xb23LJZU0Kfeb2sOlT1Sz0dwr1pTNBQ=="
+  "chu_ky": "lNT_Omwl67OeqkAI8FKYyTzN0DJYaD7S1JBkU38bYLraQ-DBExdTR8PYHE5OgomYjqtkGJlnglG1VdZMOX1hBw=="
 }

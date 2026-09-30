@@ -1,9 +1,11 @@
 {
   "noi_dung": {
     "schema_version": 1,
-    "cap_nhat_luc": "2026-09-30T18:51:23",
-    "phien_ban": 8,
-    "ma_may": []
+    "cap_nhat_luc": "2026-09-30T18:51:56",
+    "phien_ban": 9,
+    "ma_may": [
+      "DAD9-A5B1-5E11-84EA"
+    ]
   },
-  "chu_ky": "0oOXZ8Yb9VU9NrufZuIMDh7smIQ-mgVuELiwVHpGS6H5vexGwFzGpKjZfOuN9XDovd2wTHM4JSzozNBYZL0XCA=="
+  "chu_ky": "h8dXZgdx1KcVPQ53CWQk4yulR8jx4knpzisBgcTz0Kq49sWASux-UOPfyAowcSmyWtoIz4ppN75nSgTjZBOgCA=="
 }

@@ -1,12 +1,13 @@
 {
   "noi_dung": {
     "schema_version": 1,
-    "cap_nhat_luc": "2026-09-30T16:55:56",
-    "phien_ban": 1,
+    "cap_nhat_luc": "2026-09-30T17:55:54",
+    "phien_ban": 2,
     "quan_ly": [],
     "moi": [
-      "1473-6E60-5EC6-4896"
+      "1473-6E60-5EC6-4896",
+      "A36C-3B64-5433-39E5"
     ]
   },
-  "chu_ky": "IUOeJIIZ346a_rcNvIAgVQXoea3Py0XZHz4z_jaZXEaEiR7GWGBVajAkC2TLqbmRn4KY_AMLO_nAV3SdpTuYDw=="
+  "chu_ky": "oUoKhGI-Q_yOGEEAXy-V_DcItmDWgaXN39BNuvDk3QmZ3SvWzd4hXkRmfaqK74lmEpyDmE5q4VsaGlRqynfvBw=="
 }
